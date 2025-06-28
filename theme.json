@@ -1,7 +1,7 @@
 {
-    "id": "sidebery-css",
-    "name": "Sidebery CSS",
-    "description": "A Sidebery CSS settings.",
+    "id": "bazim-sidebery-css",
+    "name": "Bazim's Sidebery CSS",
+    "description": "Bazim's personal Sidebery CSS.",
     "homepage": "https://github.com/Bazimek/Sidebery-CSS",
     "style": "https://raw.githubusercontent.com/Bazimek/Sidebery-CSS/main/userChrome.css",
     "readme": "https://raw.githubusercontent.com/Bazimek/Sidebery-CSS/main/README.md",
