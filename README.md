@@ -1,2 +1,2 @@
 # Sidebery-CSS
-My personal Sidebery CSS for Floorp browser.
+bazim's personal Sidebery CSS for Floorp browser.
