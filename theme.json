@@ -2,16 +2,16 @@
     "id": "sidebery-css",
     "name": "Sidebery CSS",
     "description": "A Sidebery CSS settings.",
-    "homepage": "https://github.com/Bazim/Sidebery-CSS",
-    "style": "https://raw.githubusercontent.com/Bazim/Sidebery-CSS/main/userChrome.css",
-    "readme": "https://raw.githubusercontent.com/Bazim/Sidebery-CSS/main/README.md",
-    "image": "https://raw.githubusercontent.com/Bazim/Sidebery-CSS/main/image.png",
+    "homepage": "https://github.com/Bazimek/Sidebery-CSS",
+    "style": "https://raw.githubusercontent.com/Bazimek/Sidebery-CSS/main/userChrome.css",
+    "readme": "https://raw.githubusercontent.com/Bazimek/Sidebery-CSS/main/README.md",
+    "image": "https://raw.githubusercontent.com/Bazimek/Sidebery-CSS/main/image.png",
     "author": "Bazim",
     "version": "1.0.0",
     "tags": [
-        "sine",
+        "Sine",
         "Sidebery",
-		"Bazim"
+	"Bazim"
     ],
     "createdAt": "2025-06-28",
     "updatedAt": "2025-06-28",
